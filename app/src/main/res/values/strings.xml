@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ocean Android</string>
+    <string name="TitleMainActivity">Hello!</string>
+    <string name="insertBoxMainActivity">Insert Your Name</string>
+    <string name="sendButton">Send</string>
+    <string name="openResultActivityButton">Open result screen</string>
+    <string name="errorMainActivity">Write a name</string>
+    <string name="helloMainActivity">Hello, %1$s!</string>
+    <string name="sendResult">Send Result</string>
+    <string name="ResultText">Result recived: %1$s</string>
+    <string name="sendButtonResult">Result button was pressed</string>
+    <string name="open_and_recive_result">Open and Recive Result</string>
+</resources>
